@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Aerometre/static/css/main.f069cbc0.css",
-    "main.js": "/Aerometre/static/js/main.5c15d584.js",
+    "main.js": "/Aerometre/static/js/main.5355db5f.js",
     "index.html": "/Aerometre/index.html",
     "main.f069cbc0.css.map": "/Aerometre/static/css/main.f069cbc0.css.map",
-    "main.5c15d584.js.map": "/Aerometre/static/js/main.5c15d584.js.map"
+    "main.5355db5f.js.map": "/Aerometre/static/js/main.5355db5f.js.map"
   },
   "entrypoints": [
     "static/css/main.f069cbc0.css",
-    "static/js/main.5c15d584.js"
+    "static/js/main.5355db5f.js"
   ]
 }
